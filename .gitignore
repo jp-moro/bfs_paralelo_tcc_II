@@ -1,0 +1,10 @@
+/conf/
+/test/
+/Teste 17_02_2018/
+/tree
+/NormalMedia.txt
+/ParaleloGPUMedia.txt
+/SequencialMedia.txt
+/fib_v2-20062017.csv
+/GraphAVLTree.txt
+*.txt
